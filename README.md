@@ -1,13 +1,19 @@
-## Eu sou o Fábio...
+## 🧑‍💻 Fábio Frare
 <p>
-  📝 Graduado em Engenharia de Software pela Universidade do Estado de Santa Catarina - UDESC, onde tive o Java como principal linguagem de aprendizado. Atualmente, meu foco de desenvolvimento é em Angular e Laravel.
+Graduado em Engenharia de Software pela Universidade do Estado de Santa Catarina - UDESC, onde tive o Java como principal linguagem de aprendizado. Atualmente, meu foco de desenvolvimento está nos frameworks Angular e Laravel.
+  <p align="left">
+  <a href="https://www.linkedin.com/in/fabiofrare" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:fabiofrare.jb@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  </p>
 </p>
 
-## Tecnologias
+## 🛠️ Tecnologias & Linguagens
 
-🛠️ Algumas das tecnologias com as quais tive contato:
-
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -22,7 +28,7 @@
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-<br>
+## 📊 Estatísticas
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Fabio-Frare&theme=tokyonight" />
@@ -30,4 +36,6 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fabio-Frare&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
+
+
 
