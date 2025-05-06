@@ -1,6 +1,6 @@
 ## 🧑‍💻 Fábio Frare
 <p>
-Graduado em Engenharia de Software pela Universidade do Estado de Santa Catarina - UDESC, onde tive o Java como principal linguagem de aprendizado. Atualmente, meu foco de desenvolvimento está nos frameworks Angular e Laravel.
+Graduado em Engenharia de Software pela Universidade do Estado de Santa Catarina - UDESC, onde tive o Java como principal linguagem de aprendizado. Tive contato com diversas linguagens, porém meu foco atual de desenvolvimento está nos frameworks Angular e Laravel.
   <p align="center">
   <a href="https://www.linkedin.com/in/fabiofrare" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
